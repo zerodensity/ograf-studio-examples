@@ -1,0 +1,14 @@
+{
+  "title": "Shader background",
+  "summary": "Animated GLSL light streaks with speed, tint and glow controls for the operator.",
+  "category": "Backgrounds",
+  "level": "Intermediate",
+  "tags": [
+    "Shader",
+    "Background"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/shader-background",
+  "released": "2026-11-06",
+  "updated": "2026-11-06"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Scoreboard",
+  "summary": "Goal buttons, a match clock and a leader highlight that all run inside the graphic.",
+  "category": "Sport",
+  "level": "Intermediate",
+  "tags": [
+    "Custom actions",
+    "Sport"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/scoreboard",
+  "released": "2026-11-05",
+  "updated": "2026-11-07"
+}

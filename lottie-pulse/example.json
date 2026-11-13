@@ -1,0 +1,14 @@
+{
+  "title": "Lottie pulse",
+  "summary": "A small looping Lottie animation for checking your playout environment.",
+  "category": "Utility",
+  "level": "Basic",
+  "tags": [
+    "Lottie",
+    "Loop"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/lottie-pulse",
+  "released": "2026-11-06",
+  "updated": "2026-11-06"
+}

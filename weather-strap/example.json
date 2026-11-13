@@ -1,0 +1,15 @@
+{
+  "title": "Weather strap",
+  "summary": "A weather strap for news bulletins on a live forecast. Rain or snow falls inside its icon box.",
+  "category": "Weather",
+  "level": "Intermediate",
+  "tags": [
+    "Live data",
+    "Shader",
+    "Function"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/weather-strap",
+  "released": "2026-11-08",
+  "updated": "2026-11-08"
+}

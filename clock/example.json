@@ -1,0 +1,13 @@
+{
+  "title": "Clock",
+  "summary": "A live clock an operator or feed can switch between UTC and any time zone, on air.",
+  "category": "Clocks & timers",
+  "level": "Basic",
+  "tags": [
+    "Clock"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/clock",
+  "released": "2026-11-05",
+  "updated": "2026-11-07"
+}

@@ -1,0 +1,4 @@
+# Studio checks each download against the hash in catalog.json, so git must never rewrite a document.
+*.ogs binary
+*.json text eol=lf
+*.md text eol=lf

@@ -1,0 +1,14 @@
+{
+  "title": "Countdown",
+  "summary": "Start, Pause, Reset and Restart buttons, overtime, and an alarm the graphic fires itself.",
+  "category": "Clocks & timers",
+  "level": "Intermediate",
+  "tags": [
+    "Timer",
+    "Alarms"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/countdown",
+  "released": "2026-11-05",
+  "updated": "2026-11-07"
+}

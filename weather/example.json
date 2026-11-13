@@ -1,0 +1,17 @@
+{
+  "title": "Europe weather",
+  "summary": "A five-step weather show for a presenter on a live forecast, with touch buttons and see-through rain and snow.",
+  "category": "Weather",
+  "level": "Advanced",
+  "tags": [
+    "Live data",
+    "Steps",
+    "Shader",
+    "Function",
+    "Interactive"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/weather",
+  "released": "2026-11-08",
+  "updated": "2026-11-08"
+}

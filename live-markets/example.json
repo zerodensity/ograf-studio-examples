@@ -1,0 +1,15 @@
+{
+  "title": "Live markets",
+  "summary": "A markets dashboard playing real prices from a public feed, with a chart you can click and read.",
+  "category": "Finance",
+  "level": "Advanced",
+  "tags": [
+    "Live data",
+    "Function",
+    "Interactive"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/live-markets",
+  "released": "2026-11-07",
+  "updated": "2026-11-08"
+}

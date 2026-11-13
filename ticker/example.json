@@ -1,0 +1,13 @@
+{
+  "title": "Ticker",
+  "summary": "A native crawl with speed, direction, right-to-left text and update timing on the form.",
+  "category": "Tickers",
+  "level": "Basic",
+  "tags": [
+    "Native ticker"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/ticker",
+  "released": "2026-11-05",
+  "updated": "2026-11-07"
+}

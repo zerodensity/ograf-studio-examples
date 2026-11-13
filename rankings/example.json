@@ -1,0 +1,15 @@
+{
+  "title": "Rankings",
+  "summary": "A jury vote for a TV show: juries give points, and the board scores and reranks itself.",
+  "category": "Game shows",
+  "level": "Advanced",
+  "tags": [
+    "Function",
+    "Runtime collection",
+    "Game show"
+  ],
+  "author": "Zero Density",
+  "page": "https://ografstudio.org/examples/rankings",
+  "released": "2026-11-05",
+  "updated": "2026-11-07"
+}
