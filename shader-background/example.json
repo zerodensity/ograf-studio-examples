@@ -8,6 +8,11 @@
     "Background"
   ],
   "author": "Zero Density",
+  "license": {
+    "name": "AGPL-3.0-only",
+    "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+    "attribution": "Original example work by Zero Density."
+  },
   "page": "https://ografstudio.org/examples/shader-background",
   "released": "2026-11-06",
   "updated": "2026-11-06"

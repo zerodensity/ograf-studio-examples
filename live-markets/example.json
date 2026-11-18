@@ -9,6 +9,12 @@
     "Interactive"
   ],
   "author": "Zero Density",
+  "license": {
+    "name": "AGPL-3.0-only",
+    "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+    "attribution": "Original example work by Zero Density."
+  },
+  "credits": "Inter and JetBrains Mono fonts under the SIL Open Font License 1.1. Live and saved market data from Coinbase Exchange are subject to https://www.coinbase.com/legal/market_data. Exchange rates are sourced via Frankfurter. These data are separate from the example license.",
   "page": "https://ografstudio.org/examples/live-markets",
   "released": "2026-11-07",
   "updated": "2026-11-08"

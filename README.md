@@ -6,6 +6,15 @@ open-source editor for EBU OGraf broadcast graphics.
 Studio's project explorer lists these examples. It reads `catalog.json` from this repository's
 `main` branch and downloads an example when you open it.
 
+## License and credits
+
+Zero Density's original example work is available under the [GNU Affero General Public License
+version 3 only](LICENSE) (`AGPL-3.0-only`). Project Explorer shows the author in the details
+pane and the license and attribution in **License & Credits**. Third-party fonts, plugins, maps, and data
+retain their own terms, which are identified in the credits and embedded notices where applicable.
+Live Markets includes live and saved Coinbase Exchange data subject to its
+[Market Data Terms](https://www.coinbase.com/legal/market_data).
+
 ## Examples
 
 | Preview | Example | Level |
@@ -45,6 +54,11 @@ Each folder also holds `preview.gif`, a short loop of the graphic playing.
      "level": "Advanced",
      "tags": ["Live data", "Steps", "Shader"],
      "author": "Zero Density",
+     "license": {
+       "name": "AGPL-3.0-only",
+       "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+       "attribution": "Original example work by Zero Density."
+     },
      "page": "https://ografstudio.org/examples/weather"
    }
    ```
@@ -55,20 +69,26 @@ Each folder also holds `preview.gif`, a short loop of the graphic playing.
    npx tsx scripts/buildExampleCatalog.ts <path-to-this-repository>
    ```
 
-5. Commit everything it wrote.
+5. Review the changes, then commit the source metadata and generated catalog and media.
 
-The script plays the graphic in headless Chrome and writes `thumbnail.webp`, `preview.mp4`,
-`preview.gif`, `.preview.json` and `catalog.json`. Do not edit those by hand.
+The script updates `catalog.json` and renders stale previews with headless Chrome. It writes
+`thumbnail.webp`, `preview.mp4`, `preview.gif` and `.preview.json` when preview files are missing
+or their render inputs have changed. An order or metadata edit reuses current preview files.
 
 Optional keys in `example.json`:
 
 | Key | Meaning |
 | --- | --- |
+| `license` | The example work's license name, optional HTTPS link, and optional attribution. |
+| `credits` | Separate notices and attribution for third-party material. |
 | `unlisted` | `true` keeps the example out of Studio's explorer. Its files stay visible here. |
 | `released`, `updated` | Dates as `YYYY-MM-DD`. They default to the document's first and last commit. |
 | `preview` | The actions the preview plays, for a graphic that only moves on an action. |
 
-## Order
+## Publish the shared order
 
-`featured.json` lists example IDs. Studio shows those first, in that order, then the rest by latest
-update. An example is marked **New** for 30 days after its release date.
+Place example IDs in the desired order in `featured.json`, then regenerate `catalog.json` using
+the command above. Publish both files to `main` in this repository. Studio picks up the order when
+it refreshes the catalog. Its default **Featured** sort shows the listed IDs first in that order
+and appends the remaining examples by latest update. List every example ID to control the entire
+order. An example is marked **New** for 30 days after its release date.
