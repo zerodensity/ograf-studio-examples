@@ -10,6 +10,12 @@
       "level": "Basic",
       "tags": ["Branding"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Roboto Condensed font under the SIL Open Font License 1.1. The font notice is included in the project.",
       "released": "2026-11-05",
       "updated": "2026-11-07",
       "file": "bug/bug.ogs",
@@ -31,6 +37,12 @@
       "level": "Intermediate",
       "tags": ["Charts", "Shared controls", "Template set"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Chart.js (MIT) and the OGraf Studio renderer adapter and Broadcast Motion presets. Their license notices are included in the project.",
       "released": "2026-11-08",
       "updated": "2026-11-08",
       "file": "charts/charts.ogs",
@@ -52,6 +64,12 @@
       "level": "Basic",
       "tags": ["Clock"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Roboto Condensed font under the SIL Open Font License 1.1. The font notice is included in the project.",
       "released": "2026-11-05",
       "updated": "2026-11-07",
       "file": "clock/clock.ogs",
@@ -73,6 +91,12 @@
       "level": "Intermediate",
       "tags": ["Timer", "Alarms"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Roboto Condensed font under the SIL Open Font License 1.1. The font notice is included in the project.",
       "released": "2026-11-05",
       "updated": "2026-11-07",
       "file": "countdown/countdown.ogs",
@@ -94,6 +118,12 @@
       "level": "Advanced",
       "tags": ["Live data", "Function", "Interactive"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Inter and JetBrains Mono fonts under the SIL Open Font License 1.1. Live and saved market data from Coinbase Exchange are subject to https://www.coinbase.com/legal/market_data. Exchange rates are sourced via Frankfurter. These data are separate from the example license.",
       "released": "2026-11-07",
       "updated": "2026-11-08",
       "file": "live-markets/live-markets.ogs",
@@ -115,6 +145,11 @@
       "level": "Basic",
       "tags": ["Lottie", "Loop"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
       "released": "2026-11-06",
       "updated": "2026-11-06",
       "file": "lottie-pulse/lottie-pulse.ogs",
@@ -136,6 +171,12 @@
       "level": "Basic",
       "tags": ["Value maps", "Rules"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Roboto Condensed font under the SIL Open Font License 1.1. The font notice is included in the project.",
       "released": "2026-11-05",
       "updated": "2026-11-07",
       "file": "lower-third/lower-third.ogs",
@@ -157,6 +198,12 @@
       "level": "Advanced",
       "tags": ["Function", "Runtime collection", "Game show"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Oswald font under the SIL Open Font License 1.1. The font notice is included in the project.",
       "released": "2026-11-05",
       "updated": "2026-11-07",
       "file": "rankings/rankings.ogs",
@@ -178,6 +225,12 @@
       "level": "Intermediate",
       "tags": ["Custom actions", "Sport"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Roboto Condensed font under the SIL Open Font License 1.1. The font notice is included in the project.",
       "released": "2026-11-05",
       "updated": "2026-11-07",
       "file": "scoreboard/scoreboard.ogs",
@@ -199,6 +252,11 @@
       "level": "Intermediate",
       "tags": ["Shader", "Background"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
       "released": "2026-11-06",
       "updated": "2026-11-06",
       "file": "shader-background/shader-background.ogs",
@@ -220,6 +278,12 @@
       "level": "Basic",
       "tags": ["Native ticker"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Roboto Condensed font under the SIL Open Font License 1.1. The font notice is included in the project.",
       "released": "2026-11-05",
       "updated": "2026-11-07",
       "file": "ticker/ticker.ogs",
@@ -241,6 +305,12 @@
       "level": "Advanced",
       "tags": ["Live data", "Steps", "Shader", "Function", "Interactive"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Inter and Oswald fonts under the SIL Open Font License 1.1. The font notices are included in the project. Forecast data from Open-Meteo, with separate terms at https://open-meteo.com/en/license. Map data from Natural Earth (public domain).",
       "released": "2026-11-08",
       "updated": "2026-11-08",
       "file": "weather/weather.ogs",
@@ -262,6 +332,12 @@
       "level": "Intermediate",
       "tags": ["Live data", "Shader", "Function"],
       "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "credits": "Inter and Oswald fonts under the SIL Open Font License 1.1. The font notices are included in the project. Forecast data from Open-Meteo, with separate terms at https://open-meteo.com/en/license.",
       "released": "2026-11-08",
       "updated": "2026-11-08",
       "file": "weather-strap/weather-strap.ogs",

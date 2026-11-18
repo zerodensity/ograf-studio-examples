@@ -11,6 +11,12 @@
     "Interactive"
   ],
   "author": "Zero Density",
+  "license": {
+    "name": "AGPL-3.0-only",
+    "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+    "attribution": "Original example work by Zero Density."
+  },
+  "credits": "Inter and Oswald fonts under the SIL Open Font License 1.1. The font notices are included in the project. Forecast data from Open-Meteo, with separate terms at https://open-meteo.com/en/license. Map data from Natural Earth (public domain).",
   "page": "https://ografstudio.org/examples/weather",
   "released": "2026-11-08",
   "updated": "2026-11-08"

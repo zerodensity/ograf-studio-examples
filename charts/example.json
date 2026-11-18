@@ -9,6 +9,12 @@
     "Template set"
   ],
   "author": "Zero Density",
+  "license": {
+    "name": "AGPL-3.0-only",
+    "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+    "attribution": "Original example work by Zero Density."
+  },
+  "credits": "Chart.js (MIT) and the OGraf Studio renderer adapter and Broadcast Motion presets. Their license notices are included in the project.",
   "page": "https://ografstudio.org/examples/charts",
   "released": "2026-11-08",
   "updated": "2026-11-08"
