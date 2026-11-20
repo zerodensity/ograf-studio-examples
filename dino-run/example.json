@@ -1,0 +1,21 @@
+{
+  "title": "Dino Run",
+  "summary": "A 15-second pixel-art cartoon with sound: a dinosaur runs, jumps, eats and grows, until the camera pulls back on a surprise.",
+  "category": "Misc",
+  "level": "Advanced",
+  "tags": ["Animation", "Sound", "Value maps", "Rules"],
+  "author": "Zero Density",
+  "license": {
+    "name": "AGPL-3.0-only",
+    "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+    "attribution": "Original example work by Zero Density."
+  },
+  "page": "https://ografstudio.org/examples/dino-run",
+  "released": "2026-11-20",
+  "updated": "2026-11-20",
+  "preview": {
+    "seconds": 12,
+    "actions": [{ "at": 0.2, "do": "play" }],
+    "thumbnailAt": 9.2
+  }
+}

@@ -111,6 +111,32 @@
       "page": "https://ografstudio.org/examples/countdown"
     },
     {
+      "id": "dino-run",
+      "title": "Dino Run",
+      "summary": "A 15-second pixel-art cartoon with sound: a dinosaur runs, jumps, eats and grows, until the camera pulls back on a surprise.",
+      "category": "Misc",
+      "level": "Advanced",
+      "tags": ["Animation", "Sound", "Value maps", "Rules"],
+      "author": "Zero Density",
+      "license": {
+        "name": "AGPL-3.0-only",
+        "url": "https://www.gnu.org/licenses/agpl-3.0.html",
+        "attribution": "Original example work by Zero Density."
+      },
+      "released": "2026-11-20",
+      "updated": "2026-11-20",
+      "file": "dino-run/dino-run.ogs",
+      "bytes": 3902231,
+      "sha256": "4afb98bc8caa05ab09c18f7f843c29bce5ca4acbe3d2adc2519b9ae46ed2032b",
+      "thumbnail": "dino-run/thumbnail.webp",
+      "preview": "dino-run/preview.mp4",
+      "canvas": { "width": 1920, "height": 1080, "frameRate": 50 },
+      "templates": 1,
+      "fields": 5,
+      "documentVersion": 37,
+      "page": "https://ografstudio.org/examples/dino-run"
+    },
+    {
       "id": "live-markets",
       "title": "Live markets",
       "summary": "A markets dashboard playing real prices from a public feed, with a chart you can click and read.",

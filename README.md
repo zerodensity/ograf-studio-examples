@@ -32,6 +32,7 @@ Live Markets includes live and saved Coinbase Exchange data subject to its
 | [<img src="ticker/thumbnail.webp" width="240" alt="Ticker">](ticker/) | **[Ticker](https://ografstudio.org/examples/ticker)**<br>A native crawl with speed, direction, right-to-left text and update timing on the form. | Basic |
 | [<img src="lottie-pulse/thumbnail.webp" width="240" alt="Lottie pulse">](lottie-pulse/) | **[Lottie pulse](https://ografstudio.org/examples/lottie-pulse)**<br>A small looping Lottie animation for checking your playout environment. | Basic |
 | [<img src="shader-background/thumbnail.webp" width="240" alt="Shader background">](shader-background/) | **[Shader background](https://ografstudio.org/examples/shader-background)**<br>Animated GLSL light streaks with speed, tint and glow controls for the operator. | Intermediate |
+| [<img src="dino-run/thumbnail.webp" width="240" alt="Dino Run">](dino-run/) | **[Dino Run](https://ografstudio.org/examples/dino-run)**<br>A 15-second pixel-art cartoon with sound: a dinosaur runs, jumps, eats and grows, until the camera pulls back on a surprise. | Advanced |
 
 Each folder also holds `preview.gif`, a short loop of the graphic playing.
 
