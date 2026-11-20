@@ -93,3 +93,8 @@ the command above. Publish both files to `main` in this repository. Studio picks
 it refreshes the catalog. Its default **Featured** sort shows the listed IDs first in that order
 and appends the remaining examples by latest update. List every example ID to control the entire
 order. An example is marked **New** for 30 days after its release date.
+
+Studio uses `released` for the **New** mark and nothing else. The 13 examples the catalog started
+with carry `2026-10-01`, a date set by convention and not the day they first appeared, so that only
+later additions get the mark. To list an example without the mark, give it a release date more than
+30 days in the past.
