@@ -32,6 +32,8 @@ Live Markets includes live and saved Coinbase Exchange data subject to its
 | [<img src="ticker/thumbnail.webp" width="240" alt="Ticker">](ticker/) | **[Ticker](https://ografstudio.org/examples/ticker)**<br>A native crawl with speed, direction, right-to-left text and update timing on the form. | Basic |
 | [<img src="lottie-pulse/thumbnail.webp" width="240" alt="Lottie pulse">](lottie-pulse/) | **[Lottie pulse](https://ografstudio.org/examples/lottie-pulse)**<br>A small looping Lottie animation for checking your playout environment. | Basic |
 | [<img src="shader-background/thumbnail.webp" width="240" alt="Shader background">](shader-background/) | **[Shader background](https://ografstudio.org/examples/shader-background)**<br>Animated GLSL light streaks with speed, tint and glow controls for the operator. | Intermediate |
+| [<img src="modifier-examples/thumbnail.webp" width="240" alt="Modifier examples">](modifier-examples/) | **[Modifier examples](modifier-examples/)**<br>Grid Arrange, Radial Arrange, Justify, Look At, Spline Path and Responsive Text, one template each. Also ships inside Studio. | Intermediate |
+| [<img src="timer-alarms/thumbnail.webp" width="240" alt="Timer alarms">](timer-alarms/) | **[Timer alarms](timer-alarms/)**<br>Three countdowns that warn before the end and show a final effect at zero. Also ships inside Studio. | Intermediate |
 | [<img src="dino-run/thumbnail.webp" width="240" alt="Dino Run">](dino-run/) | **[Dino Run](https://ografstudio.org/examples/dino-run)**<br>A 15-second pixel-art cartoon with sound: a dinosaur runs, jumps, eats and grows, until the camera pulls back on a surprise. | Advanced |
 
 Each folder also holds `preview.gif`, a short loop of the graphic playing.
@@ -94,7 +96,12 @@ it refreshes the catalog. Its default **Featured** sort shows the listed IDs fir
 and appends the remaining examples by latest update. List every example ID to control the entire
 order. An example is marked **New** for 30 days after its release date.
 
-Studio uses `released` for the **New** mark and nothing else. The 13 examples the catalog started
-with carry `2026-10-01`, a date set by convention and not the day they first appeared, so that only
+Studio uses `released` for the **New** mark and nothing else. The 15 examples from before Dino Run
+carry `2026-10-01`, a date set by convention and not the day they first appeared, so that only
 later additions get the mark. To list an example without the mark, give it a release date more than
 30 days in the past.
+
+Modifier examples and Timer alarms also ship inside Studio. They are listed here with the same
+documents, byte for byte, because Studio then takes an example's details, its release date
+included, from this catalog and keeps using the files it shipped with. Change one of those two
+documents only together with the copy in Studio.
