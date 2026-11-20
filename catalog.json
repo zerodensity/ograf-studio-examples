@@ -125,6 +125,7 @@
       },
       "released": "2026-11-20",
       "updated": "2026-11-20",
+      "unlisted": true,
       "file": "dino-run/dino-run.ogs",
       "bytes": 3902231,
       "sha256": "4afb98bc8caa05ab09c18f7f843c29bce5ca4acbe3d2adc2519b9ae46ed2032b",

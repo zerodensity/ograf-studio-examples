@@ -13,6 +13,7 @@
   "page": "https://ografstudio.org/examples/dino-run",
   "released": "2026-11-20",
   "updated": "2026-11-20",
+  "unlisted": true,
   "preview": {
     "seconds": 12,
     "actions": [{ "at": 0.2, "do": "play" }],
