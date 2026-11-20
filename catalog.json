@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "featured": ["weather", "live-markets", "rankings"],
+  "featured": ["dino-run", "weather", "live-markets", "rankings"],
   "examples": [
     {
       "id": "bug",
