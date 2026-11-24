@@ -112,7 +112,7 @@
     },
     {
       "id": "dino-run",
-      "title": "Dino Run",
+      "title": "Pixel Art Dinosaur Animation",
       "summary": "A 15-second pixel-art cartoon with sound: a dinosaur runs, jumps, eats and grows, until the camera pulls back on a surprise.",
       "category": "Misc",
       "level": "Advanced",
@@ -124,11 +124,11 @@
         "attribution": "Original example work by Zero Density."
       },
       "released": "2026-11-20",
-      "updated": "2026-11-20",
+      "updated": "2026-11-24",
       "unlisted": true,
       "file": "dino-run/dino-run.ogs",
-      "bytes": 3902231,
-      "sha256": "4afb98bc8caa05ab09c18f7f843c29bce5ca4acbe3d2adc2519b9ae46ed2032b",
+      "bytes": 3897556,
+      "sha256": "c7f038d5bd8fe8ec5e3ea5ae3e15f8ed603db1ec68d1d3dee2fd28150ec777d6",
       "thumbnail": "dino-run/thumbnail.webp",
       "preview": "dino-run/preview.mp4",
       "canvas": { "width": 1920, "height": 1080, "frameRate": 50 },

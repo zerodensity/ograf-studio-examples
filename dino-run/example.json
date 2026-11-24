@@ -1,5 +1,5 @@
 {
-  "title": "Dino Run",
+  "title": "Pixel Art Dinosaur Animation",
   "summary": "A 15-second pixel-art cartoon with sound: a dinosaur runs, jumps, eats and grows, until the camera pulls back on a surprise.",
   "category": "Misc",
   "level": "Advanced",
@@ -12,7 +12,7 @@
   },
   "page": "https://ografstudio.org/examples/dino-run",
   "released": "2026-11-20",
-  "updated": "2026-11-20",
+  "updated": "2026-11-24",
   "unlisted": true,
   "preview": {
     "seconds": 12,
